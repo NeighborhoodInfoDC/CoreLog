@@ -57,3 +57,7 @@ Prog/Temp/
 
 # Temporary
 *.bak
+
+# Other
+*.bat
+Thumbs.db
